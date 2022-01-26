@@ -1,0 +1,261 @@
+@charset "UTF-8";
+/* CSS Document */
+
+img .header , .nav {
+	display: inline-block;
+}
+
+/*Header styling*/
+.header {
+	background-color: #3D6176;
+	color: white;
+	margin-bottom: 0px;
+	text-align: center;
+}
+
+
+.header a {
+	color: darkslategray;
+	padding: 0px 40px;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+}
+
+/*Navigation styling*/
+.nav a:hover {
+	background-color: #558D97;
+	color: white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+.nav {
+	text-align: right;
+}
+
+/*End advertisement about plants styling*/
+.ad {
+	background-color: lightgray;
+	text-align: center;
+}
+
+/*Jewelry styling*/
+.bracelets {
+	border: solid #99BFC6 1px;
+}
+
+.necklaces {
+	border: solid #99BFC6 1px;
+}
+
+.earrings {
+	border: solid #99BFC6 1px;
+}
+
+.bracelets, .necklaces, .earrings {
+	display: inline-block;
+}
+
+.featured {
+	margin: 0 auto;
+	margin-bottom: 30px;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+	text-align: center;
+	
+}
+
+.featured_heading {
+	text-align: center;
+}
+
+/*Final ad about plants, styling on background image and padding, more details*/
+.ad {
+	background-image: url("Images/gm-sustainability-banner.jpg");
+	height: 100px;
+	color: white;
+	margin-top: 0px;
+	padding-top: 1px;
+	padding-bottom: 50px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+nav {
+	text-align: right;
+	width: 100%;
+}
+
+.b1, .b2 {
+	display: inline-block;
+	text-align: center;
+}
+
+.n1, .n2 {
+	display: inline-block;
+	text-align: center;
+}
+
+.e1, .e2 {
+	display: inline-block;
+	text-align: center;
+}
+
+img .header {
+	margin-right: 200px;
+}
+
+#ad {
+	background-color: darkgreen;
+	padding: 9px;
+	color: white;
+	text-decoration: none;
+}
+
+#ad:hover {
+	background-color: #3D6176;
+	color: white;
+}
+
+.footer {
+	text-align: center;
+	background-color: #C4DDDE;
+	padding: 1px;
+	font-family: "Open Sans";
+	font-size: 13px;
+}
+
+/*More home page styling*/
+.promo {
+	background-image: url("Images/photo/pexels-photo-7436138.jpeg");
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+	padding-top: 80px;
+	padding-bottom: 100px;
+	margin-bottom: 0px;
+}
+
+.info {
+	float: right;
+	width: 50px;
+}
+
+.nav {
+	text-align: center;
+	background-color: #C4DDDE;
+	padding: 5px;
+	width: 100%
+}
+
+.logo {
+	padding: 10px;
+}
+
+.image, .info {
+	display: inline-block;
+}
+
+.A, .B {
+	display: inline-block;
+}
+
+.A {
+	width: 80%;
+	text-align: center;
+	height: 120px;
+	margin-top: 0px;
+}
+
+.B {
+	text-align: right;
+	width: 13%;
+	padding: 10px;
+	
+}
+
+.check {
+	background-color: #99BFC6;
+	font-family: 'Open Sans', sans-serif;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+
+.featured_heading {
+	font-family: 'Open Sans', sans-serif;
+}
+
+/*Products page styling*/
+.catalog {
+	text-align: center;
+	margin-bottom: 50px;
+	font-family: 'Work Sans', sans-serif;
+}
+
+.preciousgems, .twotone {
+	display: inline-block;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.bluetopaz, .diamondlink {
+	display: inline-block;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.bracelets a {
+	text-decoration: none;
+	color: black;
+}
+
+.bracelets a:hover {
+	color: blue;
+}
+
+.necklaces a {
+	text-decoration: none;
+	color: black;
+}
+
+.necklaces a:hover {
+	color: blue;
+}
+
+.earrings a {
+	text-decoration: none;
+	color: black;
+}
+
+.earrings a:hover {
+	color: blue;
+}
+
+#descr {
+	padding-right: 20px;
+	padding-left: 20px;
+	text-align: left;
+}
+
+.about {
+	margin-bottom: 25px;
+	font-family: 'Work Sans', sans-serif;
+	padding-right: 25px;
+	padding-left: 25px;
+}
+
+#aboutus {
+	text-align: center;
+}
+
+/*Home page YouTube video styling*/
+.video {
+	text-align: center;
+	margin-bottom: 30px;
+}
